@@ -4,10 +4,10 @@ using namespace std;
 
 void foobar(string s) {
 	
-	cout << s << " BATMAN!!" << endl
+	cout << s << " BATMAN!!" << endl;
 }
 
 int main() {
 	
-	footbar("NANAANANANANANA");
+	foobar("NANAANANANANANA");
 }
